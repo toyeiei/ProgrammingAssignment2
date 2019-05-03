@@ -4,7 +4,8 @@
 ## R code line 51-53 used to test these functions
 
 ## ---------------------------------------------------
-## 
+## create special matrix and four functions
+## set(), get(), setSolve(), getSolve()
 makeCacheMatrix <- function(x = matrix() ) {
   solve_mat <- NULL
         
